@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # basketball_coun
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# basketball-counter-app
+basketball counter app of tharwat samy course with update state management to cubit
+>>>>>>> 6e0017bf68c0c729901a1376b653657e1392672e
