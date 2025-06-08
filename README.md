@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 # basketball-counter-app
 basketball counter app of tharwat samy course with update state management to cubit
 اول تطبيق ف رحلة تعلم cubit/bloc statemangement  من كورس بش مهندس ثروت هي basketball counter app تطبيق مفيهوش ststes كتير ولا شغل كتير ف كان  سهل ابدأ بيه  و عرفت فيه ايه Bloc pattern و عرفت فيه ايه ال 6 خدوات بتاعت Bloc pattern 
-1-create states
+1-create states 
 في الخطوة دي بحدد states اللي موجودة عندي في التطبيق ز ايه بيحصل في كل تغيير زي ما هو موجود عندي في التطبيق دا ال states الموجودة عندي هي counterAIncrementState & counterBIncrementState 
 2-create cubit
 3- create function
